@@ -4,6 +4,7 @@ def plus(a, b):
 
 text = "New text"
 
+
 def minus(a, b):
     return a - b
 
